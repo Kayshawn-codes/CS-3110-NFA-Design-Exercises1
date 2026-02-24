@@ -1,0 +1,19 @@
+Accept Strings
+Case:3k+1 1's
+1
+10111
+1010101
+1110001
+Case: Odd number of 0s
+0
+1011
+10001
+101010
+Case: Both
+10
+1111000
+1011010
+Reject Strings
+1100
+00
+001111100

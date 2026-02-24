@@ -1,0 +1,15 @@
+Accept Strings
+Case: s = 001
+001
+Case: Odd number of 0s
+0
+1011
+10001
+101010
+Case: Both
+
+Reject Strings
+0011
+1
+111
+1001
