@@ -5,3 +5,5 @@ I didn't run into any challenges working on this assignment. I understand this c
 
 ## gold-st-rings
 I didn't really have any strings I incorrectly predicted the behavior of so I had to come up with some that made sense possibly confusing someone. In the future I'll continue reading through my requirements and thinking through the behavior of my NFAs to make sure I don't make errors.
+
+I didn't upload my drawings of the string computations because "Enough is enough"
